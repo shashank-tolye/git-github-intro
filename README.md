@@ -5,3 +5,4 @@ This repository is created to practice:
 - Committing changes
 - Pushing to GitHub
 - Creating a pull request
+- Contributor is Shashank
